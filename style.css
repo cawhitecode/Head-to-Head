@@ -1,0 +1,20 @@
+/* Styles go here */
+.winner {
+  font-size: 200%;
+  color: green;
+}
+
+body {
+  padding: 20%;
+  text-align: center;
+}
+
+p {
+ font-size: 110%;
+}
+
+#buttons {
+  margin: 2%;
+  padding: 2%;
+  
+}
